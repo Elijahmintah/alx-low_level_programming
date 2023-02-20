@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - God is good
+ * main - A program that prints the various computer types 
  * Return: 0 (success)
  */
 int main(void)
