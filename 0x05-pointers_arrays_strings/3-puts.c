@@ -6,5 +6,5 @@
  * Return: void
  */
 
-void _puts(*stre);
+void _puts(stre);
 
